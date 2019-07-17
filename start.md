@@ -24,7 +24,7 @@
 
 使用系统管理平台的账号登录。
 
-审计管理平台：auditadmin/\!1fw@2soc\#3vpn
+系统管理平台：admin/\!1fw@2soc\#3vpn
 
 ## 4\. 导入授权
 
