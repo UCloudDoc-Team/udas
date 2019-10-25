@@ -1,4 +1,4 @@
-{{indexmenu_n>5}}
+
 
 # 5）NTP配置
 
