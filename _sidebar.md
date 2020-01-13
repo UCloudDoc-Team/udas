@@ -27,7 +27,7 @@
         * [3、风险管理](security/udas/operation/audit/risk)
         * [4、审计管理](security/udas/operation/audit/aud)
         * [5、报表管理](security/udas/operation/audit/report)
-* [数据库审计升级说明](security/udas/shengji)
+* [数据库审计升级说明](security/udas/upgrade)
 * [产品手册下载](security/udas/manual)
 * [产品价格](security/udas/price)
 * [使用注意事项](security/udas/warning)
