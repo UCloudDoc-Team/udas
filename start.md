@@ -34,7 +34,7 @@
 
 ## 5\. 添加审计对象
 
-**前提条件：**审计对象为UCloud的数据库（UDB）。如果是自建的数据库需要跟数据库审计同一个可用区，且安装[UHIDS](/security/uhids/quick/agent)的agent插件。
+**前提条件：**审计对象为UCloud的数据库（UDB）。如果是自建的数据库需要跟数据库审计同一个可用区，且安装[UHIDS](uhids/quick/agent)的agent插件。
 
 **登录规则管理平台**：用户名和密码为：ruleadmin/\!1fw@2soc\#3vpn
 
@@ -54,7 +54,7 @@
 | 版本号    | 选定数据库服务器类型后，这里选择数据库的版本号。                                    |
 | 服务地址   | 数据库服务器所在的 IP 地址。                                            |
 | 端口     | 数据库服务器设置的数据库的端口号，默认 SQL Server:1433;                        |
-| 应用规则组  | 规则组设置，请参阅 [规则组管理](/security/udas/operation/rule/procedure)  |
+| 应用规则组  | 规则组设置，请参阅 [规则组管理](udas/operation/rule/procedure)  |
 | 数据库编码  | 根据数据库服务器数据库设置的编码字符集选择。 Oracle:GB2312;SQLServer:936;其他:UTF-8 |
 | 应用部门   | 默认选择根部门                                                     |
 | 关联对象   | 可将该审计对象与其他的审计对象进行关联。                                        |
