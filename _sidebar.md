@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__udas"> 数据库审计 UAuditDB</div>
 
 * [概览](/udas/README)
 * 产品简介
