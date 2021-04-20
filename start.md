@@ -6,6 +6,7 @@
 [**数据库审计快速上手指南-UDB**](https://dn-audit-docs.cn-bj.ufileos.com/UCloud%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A1%E8%AE%A1%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-UDB.pdf
 )
 
+**非UDB，购买前请联系产品负责人沟通部署方案及获取部署指导文档**
 
 ## 注意点
 
