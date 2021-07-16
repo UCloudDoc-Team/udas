@@ -3,7 +3,7 @@
 * 产品简介
     * [产品概述](/udas/concepts/overeview)
     * [支持范围](/udas/concepts/support)
-    * [功能特性](/udas/concepts/feature)
+    * [产品特性](/udas/concepts/feature)
     * [数据盘估算及维护](/udas/concepts/shujupan)
 * [快速上手](/udas/start)
 * 操作指南
@@ -15,7 +15,7 @@
         * [5、日志管理](/udas/operation/manage/log)
         * [6、系统管理](/udas/operation/manage/system)
         * [7、基本设置](/udas/operation/manage/basic)
-    * 规则管理平台
+    * 安全管理平台
         * [1、整体预览](/udas/operation/rule/dashboard)
         * [2、全局参数设置](/udas/operation/rule/whole)
         * [3、访问者信息配置](/udas/operation/rule/config)
