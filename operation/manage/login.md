@@ -2,14 +2,14 @@
 
 # 1、登录系统
 
-打开wchrome浏览器，在地址栏输入审计设备的管理IP地址或输入 https://数据库审计IP
+打开浏览器，在地址栏输入审计设备的管理IP地址或输入 https://数据库审计IP
 
-**初始的登陆账号和登陆密码为：
+**初始的登陆账号和登陆密码为：**
 
-**审计管理平台：auditadmin/\!1fw@2soc\#3vpn
+* 系统管理员sysadmin/3edc$RFV 
 
-**规则管理平台：ruleadmin/\!1fw@2soc\#3vpn
+* 安全管理员secadmin/3edc$RFV
 
-**系统管理平台：admin/\!1fw@2soc\#3vpn 
+* 审计管理员auditadmin/3edc$RFV 
 
-![](/images/operation/manage/登录.png)
+  ![image-20210716153854994](../../images/image-20210716153854994.png)
