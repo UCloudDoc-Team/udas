@@ -2,8 +2,17 @@
 
 # 支持范围
 
-目前仅支持UCloud的数据库UDB，如果是UCloud云主机上部署的数据库需要安装[UHIDS的插件](uhids/quick/agent)以后才能使用数据库审计产品。
+**数据库支持类型**
 
-UCloud云主机上部署的数据库类型支持常见的数据库，Oracle、DB2、MySQL、sqlserver、INFORMIX、SYBASE、POSTGRESQL、达梦、人大金仓、南大通用等，以及Cache后关系型数据库。
+支持的常见的数据库，Oracle、DB2、MySQL、sqlserver、INFORMIX、SYBASE、POSTGRESQL、达梦、人大金仓、南大通用等，同时国内独家支持Cache后关系型数据库。
 
-本系统支持IE8及以上浏览器、chrome浏览器、Firefox火狐浏览器、360浏览器、opera。为了保证良好的浏览效果，推荐使用chrome浏览器。
+**说明**
+
+云上数据库审计只支持审计功能，不支持命令阻断功能；且需要在访问数据库的应用服务客户端部署agent。
+
+agent：转发数据库协议流量发送至审计端，从而实现审计操作，支持多个审计对象上同时配置并进行引流
+
+**浏览器兼容性**
+
+本系统采用B/S架构，支持IE10及以上浏览器、Chrome浏览器、Firefox火狐浏览器。为了保证良好的浏览效果，推荐使用Chrome浏览器。
+
