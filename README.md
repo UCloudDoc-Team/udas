@@ -17,6 +17,7 @@
         * [5、日志管理](/udas/operation/manage/log)
         * [6、系统管理](/udas/operation/manage/system)
         * [7、基本设置](/udas/operation/manage/basic)
+        * [8、监控墙](/udas/operation/manage/jkq)
     * 安全管理平台
         * [1、整体预览](/udas/operation/rule/dashboard)
         * [2、全局参数设置](/udas/operation/rule/whole)
