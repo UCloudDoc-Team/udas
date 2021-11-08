@@ -37,15 +37,15 @@
 
 点击购买数据库审计，并选择相应的配置，完整支付及自动创建（大约5分钟）
 
-![](/images/buy.png)
+![](/images/goumai1.png)go
 
-![](/images/buy2.png)
+![](/images/goumai2.png)
 
 ## 2\. 申请并导入授权
 
 **默认创建的数据库审计是没有license授权的，需要联系技术支持，找到对应的负责人进行申请。**
 
-![](images/image-20210716135712748.png)
+![](images/lianxifangshi.png)
 
 打开浏览器，在地址栏输入设备https://EIP,登录系统管理平台,下载注册信息文件，将授权给到申请人。
 
