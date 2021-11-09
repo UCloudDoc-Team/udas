@@ -37,7 +37,7 @@
 
 点击购买数据库审计，并选择相应的配置，完整支付及自动创建（大约5分钟）
 
-![](/images/goumai1.png)go
+![](/images/goumai1.png)
 
 ![](/images/goumai2.png)
 
