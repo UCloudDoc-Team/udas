@@ -9,13 +9,12 @@
 * 操作指南
     * 系统管理平台
         * [1、登录系统](/udas/operation/manage/login)
-        * [2、数据维护](/udas/operation/manage/data)
+        * [2、监控墙](/udas/operation/manage/jkq)
         * [3、通知服务](/udas/operation/manage/inform)
         * [4、系统升级](/udas/operation/manage/upgrade)
         * [5、日志管理](/udas/operation/manage/log)
         * [6、系统管理](/udas/operation/manage/system)
         * [7、基本设置](/udas/operation/manage/basic)
-        * [8、监控墙](/udas/operation/manage/jkq)
     * 安全管理平台
         * [1、整体预览](/udas/operation/rule/dashboard)
         * [2、全局参数设置](/udas/operation/rule/whole)
