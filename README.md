@@ -20,7 +20,7 @@
         * [1、监控墙](/udas/operation/rule/aqjkq)
         * [2、保护对象](/udas/operation/rule/bhdx)
         * [3、风险](/udas/operation/rule/fx)
-        * [4、检索](/udas/operation/rule/jx)
+        * [4、检索](/udas/operation/rule/js)
         * [5、报表](/udas/operation/rule/bb)
         * [6、审计管理](/udas/operation/rule/sjgl)
         * [7、策略管理](/udas/operation/rule/clgl)
