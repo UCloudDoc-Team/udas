@@ -8,7 +8,7 @@
 下载的机器码：clientInfoFile44F88EF60861CF37.info
 返回的证书文件：44F88EF60861CF37_audit.lic
 
-![](/images/operation/manage/addsnmp.png)
+![](/images/operation/manage/xkz1.png)
 
 上传证书时先确保系统时间是否正确，如在系统时间不正确情况下上传证书会导致证书校验不通过。
 
