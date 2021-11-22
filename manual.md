@@ -11,7 +11,8 @@
 
 ***老版用户手册***
 
-[数据库审计系统用户手册1.0.pdf](http://dn-audit-docs.cn-bj.ufileos.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A1%E8%AE%A1%E7%B3%BB%E7%BB%9FUDAS%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C1.0.pdf)
+[数据库审计系统用户手册1.0.pdf](https://dn-audit-docs.cn-bj.ufileos.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A1%E8%AE%A1%E7%B3%BB%E7%BB%9FUDAS%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C1.0.pdf)
 
+[快速配置指南及Agent部署指导手册](https://dn-audit-docs.cn-bj.ufileos.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A1%E8%AE%A1%E9%85%8D%E7%BD%AE-%E8%87%AA%E5%BB%BADB.zip)
 
 
