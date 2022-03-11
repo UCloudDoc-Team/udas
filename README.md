@@ -33,4 +33,4 @@
 * [数据库审计升级说明](/udas/upgrade)
 * [产品手册下载](/udas/manual)
 * [产品价格](/udas/price)
-* [使用注意事项](/udas/warning)
+* [FAQ](/udas/warning)
