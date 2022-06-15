@@ -34,4 +34,4 @@
 * [产品手册下载](/udas/manual)
 * [产品价格](/udas/price)
 * [FAQ](/udas/faq)
-    * [验证不显示](/udas/yanzhengma)
+    * [验证不显示](/udas/faq/yanzhengma)
