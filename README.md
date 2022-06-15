@@ -33,5 +33,5 @@
 * [数据库审计升级说明](/udas/upgrade)
 * [产品手册下载](/udas/manual)
 * [产品价格](/udas/price)
-* [FAQ](/udas/faq)
-    * [验证不显示](/udas/faq/yanzhengma)
+* [FAQ](/udas/常问问题)
+    * [验证不显示](/udas/常问问题/yanzhengma)
