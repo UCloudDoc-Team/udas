@@ -40,6 +40,7 @@
     * [支持范围](/udas/data_masking/concepts/support)
     * [产品特性](/udas/data_masking/concepts/feature)
     * [部署方式](/udas/data_masking/concepts/deployment)
+    * [告警](/udas/operation/rule/gj)
  * 操作指南
     * 登录
       * [登录系统](/udas/data_masking/operation/login/login.md)
