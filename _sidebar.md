@@ -43,11 +43,11 @@
     * [告警](/udas/operation/rule/gj)
  * 操作指南
     * 登录
-      * 1、[登录系统](/udas/data_masking/operation/login/login.md)
+      * [1、登录系统](/udas/data_masking/operation/login/login.md)
     * 系统管理平台
-      * 1、[监控墙](/udas/data_masking/operation/sysmanage/monitor.md)
-      * 2、[用户管理](/udas/data_masking/operation/sysmanage/usermanage.md)
-      * 3、[告警管理](/udas/data_masking/operation/sysmanage/alert.md)
+      * [1、监控墙](/udas/data_masking/operation/sysmanage/monitor.md)
+      * [2、用户管理](/udas/data_masking/operation/sysmanage/usermanage.md)
+      * [3、告警管理](/udas/data_masking/operation/sysmanage/alert.md)
       * 4、[系统管理](/udas/data_masking/operation/sysmanage/sysmanage.md)
       * 5、[日志管理](/udas/data_masking/operation/sysmanage/logmanage.md)
       * 6、[软件授权](/udas/data_masking/operation/sysmanage/license.md)
