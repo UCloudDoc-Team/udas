@@ -30,4 +30,4 @@
       * [查看脱敏配置](/udas/data_masking/operation/audit/viewconfig.md)
 * [快速上手](/udas/data_masking/start.md)
 * [产品价格](/udas/data_masking/price.md) 
-* [常见问题](/udas/data_masking/faq.md)
+* [常见问题](/data_masking/faq.md)
