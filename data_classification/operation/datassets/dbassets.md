@@ -2,6 +2,6 @@
 
  数据库资产信息统计展示了数据库主机排行（同一个主机下有多少个数据库）、数据库类型排行（可查看所有数据库类型）、数据库记录总数排行（条）（可查看所有数据库的记录总数）、表记录总数排行（条）（可查看所有的表记录总数）。
 
-![](/data_classification/images/operation/dc/datassets/dbassets_1.jpg)
+![](/images/operation/dc/datassets/dbassets_1.jpg)
 
  
