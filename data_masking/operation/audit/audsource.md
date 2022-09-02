@@ -8,13 +8,13 @@
 
 首先选中要审核的数据源，点击审核按钮，会有同一个弹窗选择通过还是不通过，选中选项之后点击确认即可。确认后操作员那边的审核状态就会更新，审核可以进行单个数据源审核和多个数据源审核。       
 
-![](/images/operation/audit/aud/aud_1.png)                        
+![](/images/operation/audit/aud/maskaud_1.png)                        
 
 ### 1.1.2 其他操作
 
 筛选：可以对数据库类型和审核状态进行筛选。
 
-![](/images/operation/audit/aud/aud_2.png)
+![](/images/operation/audit/aud/maskaud_2.png)
 
 查看详情：点击每一条数据源操作一栏中的  即可对数据源的详细信息进行查看，包括数据库名、表名、字段名、字段描述、字段类型、字段长度等。
 
