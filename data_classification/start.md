@@ -24,7 +24,7 @@
 
 **默认创建的数据脱敏系统是没有license授权的，需提供注册文件，联系技术支持/产品负责人申请**
 
-![](/images/operation/dc/system/license_2.png)
+![](/data_classification/images/operation/dc/system/license_2.png)
 
     打开浏览器，在地址栏输入设备https://EIP:18081,登录系统管理平台,下载注册信息文件，将授权给到申请人。
     

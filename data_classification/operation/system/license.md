@@ -4,9 +4,9 @@
 
 如下图所示为证书的详细信息：
 
-![](/images/operation/dc/system/license_1.png)
+![](/data_classification/images/operation/dc/system/license_1.png)
 
-![](/images/operation/dc/system/license_2.png)
+![](/data_classification/images/operation/dc/system/license_2.png)
 
 注意：第一次使用系统或者需要续期时，进入该界面，将设备的机器码下载后发送给相关的技术人员，技术人员会返回一份以lic结尾的文件。上传该文件后，先查看授权时间、功能是否正确，如有问题可向相关技术人员寻求帮助。
 

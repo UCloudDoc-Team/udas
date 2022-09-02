@@ -6,7 +6,7 @@
 
 在系统设置①中，点击用户管理②，进入页面后点击添加按钮③，*为必填项，添加新用户时，只能分配给新用户自己平台的权限，比如系统管理员只能创建具有部署管理、系统管理等权限的用户，可按需分配权限。点击页面添加按钮，跳转到添加用户页面，在页面中依次输入新用户信息：
 
-![](/images/operation/dc/system/user/user_1.png)
+![](/data_classification/images/operation/dc/system/user/user_1.png)
 
 | 用户名     | testone（不可修改，用于登录的用户名）                        |
 | ---------- | ------------------------------------------------------------ |
@@ -19,32 +19,32 @@
 
 1、点击保存后会提示给该用户分配的初始密码，如下图所示：
 
-![](/images/operation/dc/system/user/user_2.png)
+![](/data_classification/images/operation/dc/system/user/user_2.png)
 
 新打开浏览器，使用 testone 用户及初始密码进行登录（建议第一次登录修改密码完善个人信息）。若开启‘双因子验证’，页面登录时需要进行手机验证码的获取与效验。验证码输入正确才可登录成功。
 
-![](/images/operation/dc/system/user/user_3.png)
+![](/data_classification/images/operation/dc/system/user/user_3.png)
 首次登录修改密码：
 
-![](/images/operation/dc/system/user/user_4.png)
+![](/data_classification/images/operation/dc/system/user/user_4.png)
 
 2、登录添加的子用户功能模块效果图：
 
-![](/images/operation/dc/system/user/user_5.png)
+![](/data_classification/images/operation/dc/system/user/user_5.png)
 
 ## 4.2 子用户-双因子验证
 
  方式 1：选择要开启双因子认证的用户，点击开启按钮①，及可开启该用户的双因子认证，或勾选一个或者多个用户，点击双因子验证按钮②，状态选择全部开启，开启后状态为 on 状态，如下图所示：
 
-![](/images/operation/dc/system/user/user_6.png)
+![](/data_classification/images/operation/dc/system/user/user_6.png)
 
 方式 2：添加子用户的时候就开启，如下图所示：
 
-![](/images/operation/dc/system/user/user_7.png)
+![](/data_classification/images/operation/dc/system/user/user_7.png)
 
 方式 3：修改的时候开启，如下图所示：
 
-![](/images/operation/dc/system/user/user_8.png)
+![](/data_classification/images/operation/dc/system/user/user_8.png)
 
 ## 4.3 子用户-编辑
 
@@ -62,10 +62,10 @@
 
 7、双因子验证 ：开启双因子验证，登录此用户的时候，需要进行手机验证码的获取和效验。
 
-![](/images/operation/dc/system/user/user_9.png)
+![](/data_classification/images/operation/dc/system/user/user_9.png)
 
 锁定 testone 用户，新打开浏览器，使用 testone 用户及密码进行登录，提示如下
 
-![](/images/operation/dc/system/user/user_10.png)
+![](/data_classification/images/operation/dc/system/user/user_10.png)
 
 **注：可以对在线用户进行修改、重置密码和锁定操作。修改，重置密码，会在子用户进行下一步操作时自动返回登录页面，锁定会在下一次登录生效，已被引用的子用户不能执行删除操作。**

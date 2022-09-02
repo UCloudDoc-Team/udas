@@ -6,17 +6,17 @@
 
 点击右上角设置，点击设置选项，找到隐私与安全，点击查看证书。将访问地址添加到例外，需添加一个地址， https://192.168.0.1:18081，如图，添加完成，打开新窗口进行登录。   
 
-![](/images/operation/login/login_1.png)
+![](/data_classification/images/operation/login/login_1.png)
 
 ## 2. IE浏览器
 
 IE 浏览器（包括 360 浏览器），点击右上角设置![þÿ](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg)，点击 Internet 选项，在安全中添加受信任的站点。需添加两个地址，*https://192.168.0.1* *和* *wss://192.168.0.1:18081*，如图，添加完成，打开新窗口进行登录。
 
-![](/images/operation/login/login_4.png)
+![](/data_classification/images/operation/login/login_4.png)
 
 在浏览器地址栏内输入数据安全分类分级系统的访问地址（如：[*https://192.168.0.1*](https://10.0.0.1/)）。
 
-![](/images/operation/login/login_5.png)
+![](/data_classification/images/operation/login/login_5.png)
 
 ## 3. 登录信息
 

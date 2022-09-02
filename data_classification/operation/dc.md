@@ -8,7 +8,7 @@ typora-root-url: ..
 
 分类分级功能页面：
 
-![þÿ](/images/operation/dc/dc_1.jpg)
+![þÿ](/data_classification/images/operation/dc/dc_1.jpg)
 
  
 

@@ -1,16 +1,16 @@
 # 1. 数据库资产
 
-![](/images/operation/manage/assets/assets_1.png)
+![](/data_classification/images/operation/manage/assets/assets_1.png)
 
 ## 1.1 数据库资产-添加
 
 点击页面的添加按钮①，用于添加数据库资产，弹窗提示（资产名称、数据库类型、数据库主机IP、端口为必填项）添加页面：
 
- ![](/images/operation/manage/assets/assets_2.png)
+ ![](/data_classification/images/operation/manage/assets/assets_2.png)
 
 添加成功页面会展示出添加的资产：
 
-![](/images/operation/manage/assets/assets_3.png)
+![](/data_classification/images/operation/manage/assets/assets_3.png)
 
  
 
@@ -54,15 +54,15 @@ Hive：2.X（Apache平台），支持不带Kerberos认证
 
 添加页面如下图所示：
 
-![](/images/operation/manage/assets/assets_4.png)
+![](/data_classification/images/operation/manage/assets/assets_4.png)
 
  
 
-![](/images/operation/manage/assets/assets_5.png)
+![](/data_classification/images/operation/manage/assets/assets_5.png)
 
 添加后的主数据库和关联数据库的信息如图所示：
 
-![](/images/operation/manage/assets/assets_6.png)
+![](/data_classification/images/operation/manage/assets/assets_6.png)
 
 
 
@@ -72,21 +72,21 @@ Hive：2.X（Apache平台），支持不带Kerberos认证
 
 2、也可以勾选需删除的数据库资产后，点击删除按钮③进行批量的删除，如图所示： 
 
-![](/images/operation/manage/assets/assets_7.png)
+![](/data_classification/images/operation/manage/assets/assets_7.png)
 
-![](/images/operation/manage/assets/assets_8.png)
+![](/data_classification/images/operation/manage/assets/assets_8.png)
 
 ## 1.4 数据库资产-修改
 
 点击数据库资产卡片中的操作按钮①，选择“修改”②，可对数据资产进行修改，修改界面会把已有的条件带过去，其中数据库类型、数据库主机IP、端口为不可编辑）
 
-![](/images/operation/manage/assets/assets_9.png) 
+![](/data_classification/images/operation/manage/assets/assets_9.png) 
 
 ## 1.5 数据库资产-查询
 
 页面查询条件：点击选择框①，可筛选已存在数据库资产的数据库类型，在输入框②中输入资产名称关键字可查询到对应的数据库资产；默认查询条件为空展示的是多有的资产。可以手动输入或者选择需要展示的数据，点击查询，可以展示：
 
-![þÿ](/images/operation/manage/assets/assets_10.png)
+![þÿ](/data_classification/images/operation/manage/assets/assets_10.png)
 
 ##  1.6 数据库资产-导入导出
 
@@ -98,8 +98,8 @@ Hive：2.X（Apache平台），支持不带Kerberos认证
 
 如图所示：
 
-![](/images/operation/manage/assets/assets_11.png)
+![](/data_classification/images/operation/manage/assets/assets_11.png)
 
-![](/images/operation/manage/assets/assets_12.png)
+![](/data_classification/images/operation/manage/assets/assets_12.png)
 
  

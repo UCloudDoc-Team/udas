@@ -11,13 +11,13 @@
 
  添加内置端口扫描任务（扫描 IP 段内的数据库的常用端口，如 MySQL：3306、Oracle：1521等）：
 
-![](/images/operation/discovery/dbtask/dbtask_0.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_0.jpg)
 
-![](/images/operation/discovery/dbtask/dbtask_1.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_1.jpg)
 
 添加自定义端口扫描任务（扫描 IP 段内自定义端口范围的所有端口）：
 
-![](/images/operation/discovery/dbtask/dbtask_2.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_2.jpg)
 
 ## 1.2 数据库扫描任务-删除
 
@@ -25,19 +25,19 @@
 
 2、也可勾选列表中的任务，然后点击删除按钮②，进行批量删除，删除时有弹窗提示
 
-![](/images/operation/discovery/dbtask/dbtask_3.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_3.jpg)
 
-![](/images/operation/discovery/dbtask/dbtask_4.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_4.jpg)
 
 ## 1.3 数据库扫描任务-执行
 
 1、在添加任务时可勾选立即执行，添加任务后就会执行任务
 
-![](/images/operation/discovery/dbtask/dbtask_5.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_5.jpg)
 
 2、点击扫描任务列表操作列中的执行按钮①，或勾选任务后点击批量执行按钮②，可执行扫描任务。
 
-![](/images/operation/discovery/dbtask/dbtask_6.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_6.jpg)
 
  **注：扫描状态（未开始、正在扫描、扫描成功、扫描失败、未发现数据库）**
 
@@ -45,21 +45,21 @@
 
 在查询框①中输入数据库主机 IP 关键字，点击查询便可查询到指定任务
 
- ![](/images/operation/discovery/dbtask/dbtask_7.jpg)
+ ![](/data_classification/images/operation/discovery/dbtask/dbtask_7.jpg)
 
 ## 1.5 数据库扫描任务-修改
 
 点击扫描任务列表操作列中的修改按钮①，修改任务后点击确定按钮②，即可对已添加的扫描任务进行修改
 
-![](/images/operation/discovery/dbtask/dbtask_8.jpg) 
+![](/data_classification/images/operation/discovery/dbtask/dbtask_8.jpg) 
 
-![](/images/operation/discovery/dbtask/dbtask_9.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_9.jpg)
 
  1.6 数据库扫描任务-详情
 
 点击扫描任务列表操作列中的详情按钮①，可查看扫描任务配置情况。
 
-![](/images/operation/discovery/dbtask/dbtask_10.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_10.jpg)
 
-![](/images/operation/discovery/dbtask/dbtask_11.jpg)
+![](/data_classification/images/operation/discovery/dbtask/dbtask_11.jpg)
 

@@ -4,28 +4,28 @@
 
 分类分级清单可以以不同的分类分级标准为维度来查看使用该分类分级标准进行扫描的数据资产
 
- ![](/images/operation/dc/list/list_1.jpg)
+ ![](/data_classification/images/operation/dc/list/list_1.jpg)
 
 ## 3.1 分类分级清单-统计维度
 
  统计维度：在分类分级清单的统计维度栏，点击统计维度下拉框，根据统计维度：（数据分类、数据分级、敏感类型、数据库类型）呈现不同维度的敏感信息。如下图所示：
 
-![](/images/operation/dc/list/list_2.jpg)
+![](/data_classification/images/operation/dc/list/list_2.jpg)
 
 ## 3.2 分类分级清单-查询
 
 输入的查询条件为（数据库资产名称、数据库名称、字段名）这三项，输入关键字后点击查询按钮，方可得到查询时的结果：如下图所示：
 
-![](/images/operation/dc/list/list_3.jpg)
+![](/data_classification/images/operation/dc/list/list_3.jpg)
 
 ##  3.3 分类分级清单-显示列
 
  在分类分级清单的页面，点击显示的列按钮①，可选择需要展示的序列，也可以恢复为默认的序列。如下图所示：
 
-![](/images/operation/dc/list/list_4.jpg)
+![](/data_classification/images/operation/dc/list/list_4.jpg)
 
 ## 3.4 分类分级清单-导出
 
 点击导出按钮①，可选择导出筛选、导出所有选项，点击筛选键导出的结果是根据统计维度来统计总数导出的；点击导出所有，是根据筛选的分类分级标准统计的总数进行导出结果，导出的数据文件为 Excel 文件。如下图所示：
 
-![](/images/operation/dc/list/list_5.jpg)
+![](/data_classification/images/operation/dc/list/list_5.jpg)
