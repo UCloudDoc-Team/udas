@@ -11,7 +11,7 @@
 
  添加内置端口扫描任务（扫描 IP 段内的数据库的常用端口，如 MySQL：3306、Oracle：1521等）：
 
-![](/data_classification/images/operation/discovery/dbtask/dbtask_0.jpg)
+![](/images/operation/discovery/dbtask/dbtask_0.jpg)
 
 ![](/data_classification/images/operation/discovery/dbtask/dbtask_1.jpg)
 
