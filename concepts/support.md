@@ -4,7 +4,7 @@
 
 **数据库支持类型**
 
-支持的常见的数据库，Oracle、DB2、MySQL、sqlserver、INFORMIX、SYBASE、POSTGRESQL、达梦、人大金仓、南大通用等，同时国内独家支持Cache后关系型数据库。
+支持的常见的数据库，Oracle、DB2、MySQL、sqlserver、INFORMIX、SYBASE、POSTGRESQL、达梦、人大金仓、南大通用等，同时国内支持Cache后关系型数据库。
 
 **说明**
 
