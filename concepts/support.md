@@ -4,7 +4,19 @@
 
 **数据库支持类型**
 
-支持的常见的数据库，Oracle、DB2、MySQL、sqlserver、INFORMIX、SYBASE、POSTGRESQL、达梦、人大金仓、南大通用等，同时国内支持Cache后关系型数据库。
+（1）、关系型数据库：Sqlserver、oracle、Sybase、DB2、Informix、PostgreSQL、 MariaDB、XUGU（虚谷
+
+（2）、国产数据库：达梦、人大金仓、神通数据库、南大通用
+
+（3）、后关系型数据库：Caché DB
+
+（4）、内存数据库：HANA 、Redis
+
+（5）、大数据数据库：RECORD_HIVE、SPARK_JAVA_API、Hive、HIVE_HSQL、Record_Hive、ES、GaussDB（华为高斯）、LibrA、HBASE_SHELL、Solr、MongoDB
+
+（6）、工控实时数据库：IP21_API、IP21_APIIP21_WEBSERVICE
+
+（7）、特殊云数据库：阿里云_PostgreSQL-目前版本不支持、RDS
 
 **说明**
 
