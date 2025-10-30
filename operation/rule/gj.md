@@ -7,4 +7,4 @@
 
 ![](/images/operation/rule/gj1.png)
 
-![](/images/operation/rule/gl2.png)
+![](/images/operation/rule/gj2.png)
